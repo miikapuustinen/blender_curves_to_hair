@@ -1,2 +1,3 @@
-# blender_curves_to_hair
-Turn curves to particle hair
+# Convert curves to Hair Particles
+How to use:
+Press space > Copy curves to particles
