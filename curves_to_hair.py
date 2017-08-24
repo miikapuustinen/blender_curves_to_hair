@@ -1,5 +1,5 @@
 bl_info = {
-        "name": "Copy Curves to Particles",
+        "name": "Copy Curves to Particle Hair",
         "author": "Miika Puustinen",
         "description": "Copy curves to hair particles.",
         "version": (0, 0, 1),
